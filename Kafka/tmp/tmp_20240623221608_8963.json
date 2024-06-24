@@ -1,0 +1,14 @@
+{
+    "request": "put",
+    "collection": "medicamentos",
+    "filters": {
+        "preco": {
+            "$gt": 200
+        }
+    },
+    "data": {
+        "nome": "Acetona",
+        "codigo": "1239854",
+        "preco": 199.99
+    }
+}

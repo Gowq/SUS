@@ -1,0 +1,8 @@
+{
+    "request": "delete",
+    "collection": "medicamentos",
+    "filters": {
+        "nome": "Rivotril"
+    },
+    "data": {    }
+}

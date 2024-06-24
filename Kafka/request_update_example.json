@@ -1,0 +1,10 @@
+{
+    "request": "update",
+    "collection": "medicamentos",
+    "filters": {
+        "nome": "Rivotril"
+    },
+    "data": {    
+        "$mul": {"preco": 1.2}
+    }
+}

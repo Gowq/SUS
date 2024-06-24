@@ -1,0 +1,8 @@
+{
+    "request": "get",
+    "collection": "medicamentos",
+    "filters": {
+        "nome": "Rivotril"
+    },
+    "data": {    }
+}
